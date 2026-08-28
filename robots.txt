@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zabiullahomari.github.io/sitemap.xml
